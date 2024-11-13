@@ -3,3 +3,6 @@
 fn main() {
     call_me(); // Don't change this line
 }
+fn cal_me(){
+    println!("this is the corrected version of the code"}
+}
